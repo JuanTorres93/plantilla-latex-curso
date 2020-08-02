@@ -2,6 +2,6 @@
 
 Repositorio para compartir mi plantilla de LaTeX.
 
-Curso disponible en:
+Curso para principiantes disponible en:
 
 > https://www.youtube.com/playlist?list=PL_CJdtxRwDXbmGi2tPeTP9nX3s5RwCPWa
